@@ -13,20 +13,20 @@ Untuk membuat repository di GitHub, Anda dapat mengikuti langkah-langkah berikut
    Di dashboard, cari tombol "New" atau "Buat" di pojok kanan atas. Klik tombol tersebut.
 4. Isi Informasi Repository:
  
-   -Repository Name: Masukkan nama repository yang unik.
+   > Repository Name: Masukkan nama repository yang unik.
 
-   -Description (opsional): Berikan deskripsi singkat tentang repository Anda.
+   > Description (opsional): Berikan deskripsi singkat tentang repository Anda.
 
-   -Public atau Private: Pilih apakah repository ini akan menjadi publik atau privat. Repository publik dapat dilihat oleh siapapun, 
+   > Public atau Private: Pilih apakah repository ini akan menjadi publik atau privat. Repository publik dapat dilihat oleh siapapun, 
 
-   -sementara repository privat hanya dapat diakses oleh Anda dan kolaborator yang Anda tentukan.
+   > sementara repository privat hanya dapat diakses oleh Anda dan kolaborator yang Anda tentukan.
  
-   -Initialize this repository with a README (opsional): Pilih opsi ini jika Anda ingin membuat file README.md secara otomatis.
+   > Initialize this repository with a README (opsional): Pilih opsi ini jika Anda ingin membuat file README.md secara otomatis.
 
-6. Git Ignore dan License (opsional):
+5. Git Ignore dan License (opsional):
    Add .gitignore: Pilih jenis proyek yang Anda buat agar file yang tidak perlu diikutsertakan dalam versi kontrol Git diabaikan.
    Choose a license: Pilih lisensi untuk proyek Anda. Ini opsional, tetapi memberikan panduan hukum untuk cara orang lain dapat menggunakan proyek Anda.
-7. Create Repository:
+6. Create Repository:
    Setelah mengisi informasi yang diperlukan, klik tombol "Create repository".
 
    Sekarang, repository Anda telah dibuat di GitHub. Anda akan diarahkan ke halaman repository di mana Anda dapat melihat URL repository, 
